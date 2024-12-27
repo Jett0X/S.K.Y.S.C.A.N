@@ -18,6 +18,6 @@ The purpose of this experimental study is to test the efficiency of the drone-ba
 - [JETTX](https://github.com/Jett0X)
 
 ## Licence
-- [MIT](https://github.com/Jett0X/S.K.Y.S.C.A.N/blob/main/LICENSE)
+- [MIT Licence](https://github.com/Jett0X/S.K.Y.S.C.A.N/blob/main/LICENSE)
 
 
